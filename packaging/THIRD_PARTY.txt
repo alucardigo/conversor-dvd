@@ -1,0 +1,12 @@
+Componentes de terceiros distribuídos junto com o Conversor de DVD
+====================================================================
+
+FFmpeg 9.0 (ffmpeg.exe e ffprobe.exe, pasta ffmpeg\bin)
+  Licença: GNU GPL versão 3 (o build inclui libx264 e outros componentes GPL).
+  Texto da licença: arquivo LICENSE dentro da pasta ffmpeg\.
+  Código-fonte correspondente: https://github.com/FFmpeg/FFmpeg
+  Build usado: ffmpeg-release-full (gyan.dev), distribuído pelo Scoop.
+  Este programa chama o ffmpeg como processo separado; não o incorpora em seu código.
+
+Python e bibliotecas
+  Python (tkinter incluso) e PyInstaller: licenças próprias, distribuídas com o executável.

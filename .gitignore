@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/fixtures/
+validacao/
+*.parcial.*
+# Saídas do empacotamento: nunca entram no repositório (o instalador vai como release).
+build/
+dist/
+installer/out/
+*.exe
+ffmpeg/
